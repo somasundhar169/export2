@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=EmployeeManagement/C:\/Users\/2000083822\/.m2\/repository\/org\/springframework\/data\/spring-data-jpa\/3.1.4\/spring-data-jpa-3.1.4.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-jpa=/=/maven.version=/3.1.4=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.jpa.repository(JpaRepository.class[JpaRepository" modifiers="1537" timestamp="1695980645076"/>
+    <typeInfo handle="=EmployeeManagement/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.project.employeemanagement.service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1696567507123"/>
+    <typeInfo handle="=EmployeeManagement/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.project.employeemanagement.service{CredentialsService.java[CredentialsService" modifiers="513" timestamp="1696565441248"/>
+</typeInfoHistroy>
